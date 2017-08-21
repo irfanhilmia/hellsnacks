@@ -1,6 +1,6 @@
 Codership Oy
-http://www.codership.com
-<info@codership.com>
+http://www.hellsnacks.com
+<info@hellsnacks.com>
 
 DISCLAIMER
 
