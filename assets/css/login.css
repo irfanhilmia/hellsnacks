@@ -1,0 +1,95 @@
+/*
+    Login StyleSheet 
+*/
+
+div.login {
+    background: url("../img/flames.png") no-repeat top;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+label {
+    color: #000;
+}
+
+.log-form {
+    width: 320px;
+    padding: 2% 0 0;
+    margin: auto;
+}
+
+input#user_login,
+input#user_pass {
+    background: transparent;
+    border-color: #000;
+    border-radius: 3px;
+    color: #000;
+    box-shadow: none;
+    outline: 0;
+    height: 40px;
+    font-size: 16px;
+}
+
+input#user_login:focus,
+input#user_pass:focus {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+input#user_login::-webkit-input-placeholder,
+input#user_pass::-webkit-input-placeholder {
+    color: #000;
+}
+
+input#user_login::-moz-input-placeholder,
+input#user_pass::-moz-input-placeholder {
+    color: #dedede;
+}
+
+#addon-usname {
+    background-color: transparent;
+    color: #fff;
+}
+
+button#btn-log {
+    width: 85%;
+    height: 40px;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: bold;
+    outline: 0;
+    box-shadow: none;
+    transition: .4s all ease;
+    -webkit-transition: .4s all ease;
+    -moz-transition: .4s all ease;
+    border-color: transparent;
+    background-color: #000;
+}
+
+button#btn-log:hover {
+    background-color: #111 !important;
+    transition: .4s all ease;
+    -webkit-transition: .4s all ease;
+    -moz-transition: .4s all ease;
+}
+
+p#information {
+    margin: 18px 0;
+    color: #3c3c3c
+}
+
+p#information a#signUp-link {
+    color: #3c3c3c;
+    text-decoration: underline;
+}
+
+p#information a#signUp-link:hover {
+    color: #000;
+}
+
+.errorClass {
+    color: red;
+}
+
+.validClass {
+    color: green;
+}

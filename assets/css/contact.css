@@ -1,0 +1,81 @@
+body {
+    background: url("../img/flames.png") no-repeat top;
+    background-attachment: fixed;
+}
+
+.head_page_title h2:after {
+    display: block;
+    content: "";
+    background: #000;
+    height: 2px;
+    width: 100px;
+    margin: 10px 0
+}
+
+div.id_grid:last-child {
+    border-left: solid 2px #000;
+}
+
+input#nama_lengkap,
+input#email,
+input#telepon {
+    background: transparent;
+    border-color: #000;
+    border-radius: 3px;
+    color: #000;
+    box-shadow: none;
+    outline: 0;
+    height: 40px;
+    font-size: 15px;
+}
+
+input#nama_lengkap::-webkit-input-placeholder,
+input#email::-webkit-input-placeholder,
+input#telepon::-webkit-input-placeholder,
+textarea#pesan::-webkit-input-placeholder {
+    color: #000;
+}
+
+textarea#pesan {
+    background: transparent;
+    border-color: #000;
+    border-radius: 3px;
+    color: #000;
+    box-shadow: none;
+    outline: 0;
+    font-size: 15px;
+    height: 150px;
+}
+
+button#button_submit {
+    border: 0;
+    box-shadow: none;
+    outline: 0;
+    background: #000;
+    color: #fff;
+    padding: 10px 30px;
+    transition: .2s all ease;
+    -webkit-transition: .2s all ease;
+    -moz-transition: .2s all ease;
+}
+
+button#button_submit:hover {
+    background: #111;
+    transition: .2s all ease;
+    -webkit-transition: .2s all ease;
+    -moz-transition: .2s all ease;
+}
+
+a#infoMail {
+    color: #000;
+    text-decoration: none;
+}
+
+li.li-contact {
+    border-bottom: dashed 2px #111;
+    margin: 10px 0;
+}
+
+div.contact_detail_article {
+    padding: 60px 0 90px 0;
+}

@@ -1,0 +1,8 @@
+section.how_to_detail .content h1:after {
+    display: block;
+    background: #000;
+    height: 2px;
+    width: 450px;
+    content: "";
+    margin: 20px 0;
+}
