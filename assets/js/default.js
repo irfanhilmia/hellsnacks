@@ -1,3 +1,20 @@
+//DISABLE right click 
+document.onkeydown = function(e) {
+    if (event.keyCode == 123) {
+        return false;
+    }
+    if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
+        return false;
+    }
+    if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
+        return false;
+    }
+    if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
+        return false;
+    }
+}
+
+
 $(document).ready(function() {
 
     //Custom Scroll
@@ -55,8 +72,6 @@ $(document).ready(function() {
         }, 2000);
 
         toastr.success("Item berhasil ditambahkan");
-
-
     });
 
 
@@ -66,6 +81,7 @@ $(document).ready(function() {
 toastr.options = {
     "debug": false,
     "positionClass": "toast-top-left",
+    "progressBar": true,
     "onclick": null,
     "fadeIn": 300,
     "fadeOut": 1000,
