@@ -38,7 +38,9 @@ textarea#alamat_form {
     box-shadow: none;
     outline: 0;
     font-size: 16px;
-    height: 90px
+    min-height: 90px;
+    max-height: 90px;
+    max-width: 100%
 }
 
 input#user_form::-webkit-input-placeholder,
