@@ -556,8 +556,6 @@ button#btn-see-all:hover {
 /*slider*/
 
 ul {
-    list-style: none outside none;
-    padding-left: 0;
     margin: 0;
 }
 
