@@ -10,7 +10,7 @@ OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 IN NO EVENT SHALL CODERSHIP OY BE HELD LIABLE TO ANY PARTY FOR ANY DAMAGES
 RESULTING DIRECTLY OR INDIRECTLY FROM THE USE OF THIS SOFTWARE.
 
-Trademark Information.
+
 
 MySQL is a trademark or registered trademark of Oracle and/or its affiliates.
 Other trademarks are the property of their respective owners.
