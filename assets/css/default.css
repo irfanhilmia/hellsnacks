@@ -1,3 +1,5 @@
+/*loader*/
+
 .cover {
     position: fixed;
     left: 0px;
@@ -435,6 +437,20 @@ ul#navtabs li {
 
 .hvr-product:hover li .caption {
     opacity: 1;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.hvr-product ul li img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.hvr-product:hover ul li img {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 .caption-style-4 img {
@@ -540,8 +556,6 @@ button#btn-see-all:hover {
 /*slider*/
 
 ul {
-    list-style: none outside none;
-    padding-left: 0;
     margin: 0;
 }
 

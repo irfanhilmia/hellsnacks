@@ -384,7 +384,7 @@
                         <p>Anda memiliki pertanyaan atau ingin berdiskusi? SMS / Whatsapp di <span class="highlight">0818 0680 0630 ( hellsnacks )</span> kami dengan senang hati berdiskusi dengan Anda</p>
                     </h1>
                     <div class="btn-contact-support">
-                        <button class="btn btn-default btn-lg"><i class="fa fa-envelope"></i> KONTAK KAMI</button>
+                        <button class="btn btn-default btn-lg" onclick="window.location.href='?show=kontak'"><i class="fa fa-envelope"></i> KONTAK KAMI</button>
                     </div>
                 </div>
             </div>

@@ -10,6 +10,7 @@
     else if($show == "produk") include ("content/product.php");
     else if($show == "carabelanja") include ("content/howto.php");
     else if($show == "kontak") include ("content/contact.php");
+    else if($show == "keranjang") include ("content/cart.php");
 
     else {
         echo "<h2 class='text-center' style='color: #000'>Kontent Tidak Ada</h2>";

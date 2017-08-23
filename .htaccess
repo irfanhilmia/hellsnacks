@@ -1,7 +1,11 @@
-Options -MultiViews
+# BEGIN 
+<IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /myroute/
+RewriteBase /sap/
+RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /hellsnacks/index.php [L]
+</IfModule>
 
-RewriteRule ^(.+)$ index.php?uri=$1 [QSA,L]
+# END 

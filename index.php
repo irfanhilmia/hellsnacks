@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html class="js canvas canvastext geolocation rgba hsla no-multiplebgs borderimage borderradius boxshadow opacity no-cssanimations csscolumns no-cssgradients no-cssreflections csstransforms no-csstransforms3d no-csstransitions  video audio cufon-active fontface cufon-ready">
+<html class="no-js" lang="en">
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="plugins/hover-master/css/hover.css" />
@@ -29,7 +29,7 @@
 </head>
 
 
-<body>
+<body oncontextmenu="return false;">
     <!--Navbar-->
     <nav class="navbar navbar-default nav-top" role="navigation">
         <div class="container">
@@ -55,7 +55,7 @@
 
                 <div class="header-right">
                     <div class="cart_box" id="cart">
-                        <a href="?show=cart" class="cart_total">
+                        <a href="?show=keranjang" class="cart_total">
                             <h3>
                                 <span class="simpleCart_total">$0.00</span>(<span id="simpleCart_quantity" class="simpleCart_quantity">0</span>)
                                 <span class="fa fa-shopping-cart"></span>

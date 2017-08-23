@@ -44,7 +44,9 @@ textarea#pesan {
     box-shadow: none;
     outline: 0;
     font-size: 15px;
-    height: 150px;
+    min-height: 150px;
+    max-height: 150px;
+    max-width: 100%;
 }
 
 button#button_submit {
