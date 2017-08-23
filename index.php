@@ -283,5 +283,3 @@
 </script>
 
 </html>
-
-<!-- silence is golden -->
