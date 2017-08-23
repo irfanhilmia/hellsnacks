@@ -34,7 +34,7 @@
                         <li><span style="color: #0000ff;">Masuk</span> atau <span style="color: #0000ff;">Daftar</span> terlebih dahulu agar bisa melanjutkan ke proses berikutnya.</li>
                         <li>Pastikan email dan data lainnya diisi dengan benar untuk memudahkan kami menghubungi anda.</li>
                         <li>Halaman terakhir adalah untuk pengecekan atau konfirmasi ulang. Jika semuanya sudah benar, klik <span style="color: #0000ff;">OK</span></li>
-                        <li>Orderan anda telah kami terima dan No. Rekening Pembayaran akan kami kirimkan segera melalui email.</li>
+                        <li>Pesanan anda telah kami terima dan No. Rekening Pembayaran akan kami kirimkan segera melalui email.</li>
                         <li>Segera melakukan <span style="color: #0000ff;">Konfirmasi Pembayaran</span> <strong><span style="text-decoration: underline;"><a href="http://www.pomadeku.com/konfirmasipembayaran" target="_blank" title="Payment Confirmation">(KLIK DISINI)</a></span></strong>                            agar pesanan anda bisa kami proses secepatnya.</li>
                         <li>Tunggu kabar dari kami, No. Resi pengiriman akan dikirimkan melalui SMS/EMAIL/WhatsApp/BBM.</li>
                         <li>Terima Kasih.</li>
