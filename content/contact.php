@@ -25,7 +25,7 @@
                 <div class="col-md-5">
                     <p class="text-justify">Jika Anda memiliki pertanyaan, komentar atau saran, kami akan senang mendengarnya dari Anda. Hubungi kami setiap saat dan kami akan menghubungi Anda dalam waktu 24 jam.</p>
                     <div class="list-information">
-                        <ul style="padding:8px 0px">
+                        <ul style="padding:8px 0px; list-style: none;">
                             <li class="li-contact"><span class="iconText"><i class="fa fa-map-marker"></i></span> Jl. Perumnas No.10 Denpasar, Bali.
                             </li><br>
                             <li class="li-contact"><span class="iconText"><i class="fa fa-phone"></i></span> 0818-63-6161 / 022-424-6161</li><br>

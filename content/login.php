@@ -12,7 +12,7 @@
                 <div class="row">
                     <ol class="breadcrumb">
                         <li><a href="?show=beranda" id="link-color"><i class="fa fa-home"></i></a></li>
-                        <li><a href="javascript:void(0)" id="link-underline">Daftar</a></li>
+                        <li><a href="javascript:void(0)" id="link-underline">Masuk</a></li>
                     </ol>
                 </div>
             </div>
