@@ -31,7 +31,7 @@
                         <li>Pilih Ekspedisi/Jasa Pengiriman yang ingin anda gunakan dan ketik kota tujuan pengiriman, <span style="color: #0000ff;">misalnya : Jakarta<br></span></li>
                         <li>Pilih metode pembayaran <strong>"Transfer Bank"</strong> (No. Rekening pembayaran akan dikirimkan melalui email).</li>
                         <li>Jika anda ingin melanjutkan belanja, silahkan klik <strong>"back"</strong> atau <strong>"checkout"</strong> untuk melanjutkan proses berikutnya.<span style="color: #0000ff;"></span><span style="color: #0000ff;"></span></li>
-                        <li><span style="color: #0000ff;">Login</span> atau <span style="color: #0000ff;">Daftar</span> terlebih dahulu agar bisa melanjutkan ke proses berikutnya.</li>
+                        <li><span style="color: #0000ff;">Masuk</span> atau <span style="color: #0000ff;">Daftar</span> terlebih dahulu agar bisa melanjutkan ke proses berikutnya.</li>
                         <li>Pastikan email dan data lainnya diisi dengan benar untuk memudahkan kami menghubungi anda.</li>
                         <li>Halaman terakhir adalah untuk pengecekan atau konfirmasi ulang. Jika semuanya sudah benar, klik <span style="color: #0000ff;">OK</span></li>
                         <li>Orderan anda telah kami terima dan No. Rekening Pembayaran akan kami kirimkan segera melalui email.</li>
