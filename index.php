@@ -57,7 +57,7 @@
                     <div class="cart_box" id="cart">
                         <a href="?show=keranjang" class="cart_total">
                             <h3>
-                                <span class="simpleCart_total">$0.00</span>(<span id="simpleCart_quantity" class="simpleCart_quantity">0</span>)
+                                <span class="simpleCart_total">Rp.0.000</span>(<span id="simpleCart_quantity" class="simpleCart_quantity">0</span>)
                                 <span class="fa fa-shopping-cart"></span>
                             </h3>
                         </a>
