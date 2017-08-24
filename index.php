@@ -29,7 +29,7 @@
 </head>
 
 
-<body oncontextmenu="return false;">
+<body oncontextmenu="return false;" class="index-page">
     <!--Navbar-->
     <nav class="navbar navbar-default nav-top" role="navigation">
         <div class="container">
