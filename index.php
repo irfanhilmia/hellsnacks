@@ -74,7 +74,7 @@
         <div class="container">
             <div class="row">
                 <div class="itemAlign" align="center">
-                    <img src="assets/img/hellsnacks.png" class="img-responsive" width="400" title="HellSnacks">
+                    <img src="assets/img/hellsnacks.png" class="img-responsive" style="cursor: pointer" width="400" title="HellSnacks" onclick="window.location.href='?show=beranda'">
                 </div>
                 <div class="btn-vertical" align="center">
                     <li><a href="#" class="btn btn-default fa-icon ic_fb"><i class="fa fa-facebook"></i></a></li>
